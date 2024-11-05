@@ -1,6 +1,6 @@
 # Drowsiness Detection System
 
-This repository contains a **Drowsiness Detection System** built using Python, OpenCV, and a Convolutional Neural Network (CNN) model. The system monitors a person’s eyes via a webcam and detects signs of drowsiness by classifying the state of the eyes (open or closed). If the system identifies drowsiness based on a threshold score, it triggers an alert to help prevent accidents or hazardous situations.
+This repository contains a **Alertness-Detection-System** built using Python, OpenCV, and a Convolutional Neural Network (CNN) model. The system monitors a person’s eyes via a webcam and detects signs of drowsiness by classifying the state of the eyes (open or closed). If the system identifies drowsiness based on a threshold score, it triggers an alert to help prevent accidents or hazardous situations.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This repository contains a **Drowsiness Detection System** built using Python, O
 
 ## Project Overview
 
-Drowsiness detection is crucial in scenarios like driving, where a lack of alertness can lead to serious accidents. This project leverages deep learning and computer vision techniques to determine whether a person’s eyes are open or closed. By continuously monitoring the state of the eyes, the system calculates a score to indicate the person’s drowsiness level. This project can be integrated into safety applications to reduce incidents caused by fatigue.
+Alertness-Detection is crucial in scenarios like driving, where a lack of alertness can lead to serious accidents. This project leverages deep learning and computer vision techniques to determine whether a person’s eyes are open or closed. By continuously monitoring the state of the eyes, the system calculates a score to indicate the person’s drowsiness level. This project can be integrated into safety applications to reduce incidents caused by fatigue.
 ![2024-10-21 (9)](https://github.com/user-attachments/assets/36d2f708-1612-457b-9c3c-ac3c343ae131)
 ![Screenshot 2024-10-21 210852](https://github.com/user-attachments/assets/96f6ddef-8c81-4728-8eed-941486b306f8)
 ![2024-10-21 (10)](https://github.com/user-attachments/assets/9db796ca-d02a-426a-bc83-8925e407a7ae)
@@ -120,4 +120,4 @@ To run this project, you need a webcam for capturing real-time images. Install P
 
 ## Contributors
 
-- **Ayushi Mahariye**
+- **Shivam Singh**
